@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "htBh//KPkOYDzEw3x+Srpt9wBTOCItsyHqPIbwu88ppIgrYz+5GnD35N9Et/IISLsgp+oLvy2fHsDbqhl08f+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toshiba\\Desktop\\20880230\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
